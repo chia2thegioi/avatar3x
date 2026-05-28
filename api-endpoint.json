@@ -2,3 +2,4 @@
     "endpoint":  "https://localhost/avatar3x/verify_tool.php",
     "allowedHost":  "localhost",
     "endpointSha256":  "435f00fe3b28e914b180d13093caf86619c815e2fc5fc340e1091d82a6309cef"
+}
