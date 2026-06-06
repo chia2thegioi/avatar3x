@@ -1,5 +1,5 @@
 {
-    "endpoint":  "https://103.98.149.182/avatar3x/verify_tool.php",
-    "allowedHost":  "103.98.149.182",
-    "endpointSha256":  "73b89054ccb8eb0ba84ea7aa7f93ef9bb1d1574111b817565434b95412dd4eaa"
+    "endpoint":  "https://avatarmod.online/avatar3x/verify_tool.php",
+    "allowedHost":  "avatarmod.online",
+    "endpointSha256":  "ffba1ab2f55c412b40a5c7729ab553a2dc94158dcd3ef3a763d73234e3b54650"
 }
