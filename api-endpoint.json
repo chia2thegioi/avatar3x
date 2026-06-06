@@ -1,5 +1,5 @@
 {
-  "endpoint": "http://localhost/avatar3x/verify_tool.php",
-  "allowedHost": "localhost",
+  "endpoint": "http://103.45.234.153/avatar3x/verify_tool.php",
+  "allowedHost": "103.45.234.153",
   "endpointSha256": "264f47310f206b3da757571a105a9c3cb0c55aed76d21c58aa5e1b866dbfc26e"
 }
