@@ -1,0 +1,5 @@
+{
+  "endpoint": "http://103.98.149.182/avatar3x/api_avatar3x_tool.php",
+  "allowedHost": "103.98.149.182",
+  "endpointSha256": "7d6db45354bd36ff86b6994a6b863b0eb59817294f85b0b96c98f8f64819255c"
+}
