@@ -1,5 +1,5 @@
 {
-    "endpoint":  "https://sv.4utovip.com/avatar3x/api_avatar3x_tool.php",
+    "endpoint":  "https://sv.4utovip.com/api_avatar3x_tool.php",
     "allowedHost":  "sv.4utovip.com",
-    "endpointSha256":  "58bd2063494d438f646d5796c51c1f2db648dd6609fc9d7c785fd14f7904ac43"
+    "endpointSha256":  "07c4a2526e4a956decd1d34949f175b17c1c4dfb94e16a5934f16cd79765252a"
 }
