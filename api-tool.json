@@ -1,5 +1,5 @@
 {
-  "endpoint": "http://103.98.149.182/avatar3x/api_avatar3x_tool.php",
-  "allowedHost": "103.98.149.182",
-  "endpointSha256": "7d6db45354bd36ff86b6994a6b863b0eb59817294f85b0b96c98f8f64819255c"
+    "endpoint":  "https://sv.4utovip.com/avatar3x/api_avatar3x_tool.php",
+    "allowedHost":  "sv.4utovip.com",
+    "endpointSha256":  "58bd2063494d438f646d5796c51c1f2db648dd6609fc9d7c785fd14f7904ac43"
 }
